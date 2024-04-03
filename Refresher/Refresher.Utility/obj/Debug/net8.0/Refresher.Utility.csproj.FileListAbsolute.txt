@@ -1,0 +1,12 @@
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\bin\Debug\net8.0\Refresher.Utility.deps.json
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\bin\Debug\net8.0\Refresher.Utility.dll
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\bin\Debug\net8.0\Refresher.Utility.pdb
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\Refresher.Utility.csproj.AssemblyReference.cache
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\Refresher.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\Refresher.Utility.AssemblyInfoInputs.cache
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\Refresher.Utility.AssemblyInfo.cs
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\Refresher.Utility.csproj.CoreCompileInputs.cache
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\Refresher.Utility.dll
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\refint\Refresher.Utility.dll
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\Refresher.Utility.pdb
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Utility\obj\Debug\net8.0\ref\Refresher.Utility.dll

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "sYOYGsVJo78x2zmhJx7Dacrq1LgF4SS/kjGRAD9F6w21PmGzi3FTQfz03SyVUr3o5Xt5hyqgF8AJhvR+vpcNDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MartinHusmillo\\source\\repos\\Refresher\\Refresher.Utility\\Refresher.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.2\\microsoft.aspnetcore.cryptography.internal.8.0.2.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.2\\microsoft.aspnetcore.cryptography.keyderivation.8.0.2.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.2\\microsoft.aspnetcore.identity.ui.8.0.2.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\8.0.2\\microsoft.extensions.fileproviders.embedded.8.0.2.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.2\\microsoft.extensions.identity.core.8.0.2.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.2\\microsoft.extensions.identity.stores.8.0.2.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\MartinHusmillo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

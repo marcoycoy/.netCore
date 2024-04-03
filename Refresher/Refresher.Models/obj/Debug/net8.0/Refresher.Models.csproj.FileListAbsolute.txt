@@ -1,0 +1,11 @@
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\bin\Debug\net8.0\Refresher.Models.deps.json
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\bin\Debug\net8.0\Refresher.Models.dll
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\bin\Debug\net8.0\Refresher.Models.pdb
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\obj\Debug\net8.0\Refresher.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\obj\Debug\net8.0\Refresher.Models.AssemblyInfoInputs.cache
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\obj\Debug\net8.0\Refresher.Models.AssemblyInfo.cs
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\obj\Debug\net8.0\Refresher.Models.csproj.CoreCompileInputs.cache
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\obj\Debug\net8.0\Refresher.Models.dll
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\obj\Debug\net8.0\refint\Refresher.Models.dll
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\obj\Debug\net8.0\Refresher.Models.pdb
+C:\Users\MartinHusmillo\source\repos\Refresher\Refresher.Models\obj\Debug\net8.0\ref\Refresher.Models.dll
